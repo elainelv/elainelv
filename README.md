@@ -27,15 +27,11 @@ My research interests include NAND flash memory and computer architecture.
 I am open-minded and a girl with positive attitude. In my spare time, I like listening to music, watching reality shows or comedies. Playing sports and games are also the choice to relax myself!
 
 ### ✨Homepages:
-
 - Personal Pages: https://elainelv.github.io (updated recently🔥)
-
 - Google Scholar: https://scholar.google.com.hk/citations?user=9F9NYH4AAAAJ
-
 - DBLP: https://dblp.uni-trier.de/pid/249/4229.html
 
 ### 🔭Research Key Words
-
 Computer Architecture, 3D NAND Flash Memory, Reliability, QoS, File System
 
 ### **🔥News**
