@@ -38,10 +38,10 @@ Computer Architecture, 3D NAND Flash Memory, Reliability, QoS, File System
 ### **🔥News**
 **2023:**
 - _2023.5.26_: 🎉One paper is accepted by **TCAD 2023** (<font color=#FF0000>**CCF-A**</font>)!
-- _2023.5.20_: 🎉One paper is accepted by **HotStorage 2023**
+- _2023.5.20_: 🎉One paper is accepted by **[HotStorage 2023](https://www.hotstorage.org/2023/cfp.html)**
 - _2023.3_: 入选上海市优秀毕业生
-- _2023.2.25-2023.3.1_: Meeting at **HPCA 2023**, Montreal, QC, Canada.
-- _2023.2.21-2023.2.23_: Meeting at **FAST 2023**, SANTA CLARA, CA, USA.
+- _2023.2.25-2023.3.1_: Meeting at **[HPCA 2023](https://hpca-conf.org/2023/)**, Montreal, QC, Canada.
+- _2023.2.21-2023.2.23_: Meeting at **[FAST 2023](https://www.usenix.org/conference/fast23/technical-sessions)**, SANTA CLARA, CA, USA.
 - _2023.1.11_: 入选华东师范大学第三十二届**十佳女大学生**.
 
 **2022:**
