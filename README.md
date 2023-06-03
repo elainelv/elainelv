@@ -26,7 +26,7 @@ My research interests include NAND flash memory and computer architecture.
 
 I am open-minded and a girl with positive attitude. In my spare time, I like listening to music, watching reality shows or comedies. Playing sports and games are also the choice to relax myself!
 
-### ✨Homepages:
+### 📫Homepages:
 - Personal Pages: https://elainelv.github.io (updated recently🔥)
 - Google Scholar: https://scholar.google.com.hk/citations?user=9F9NYH4AAAAJ
 - DBLP: https://dblp.uni-trier.de/pid/249/4229.html
@@ -36,7 +36,7 @@ Computer Architecture, 3D NAND Flash Memory, Reliability, QoS, File System
 
 ### **🔥News**
 **2023:**
-- 2023.5.26: 🎉One paper is accepted by **TCAD 2023** (<font color=#FF0000>**CCF-A**</font>)!
+- _2023.5.26_: 🎉One paper is accepted by **TCAD 2023** (<font color=#FF0000>**CCF-A**</font>)!
 - 2023.3: 入选上海市优秀毕业生
 - 2023.2.25-2023.3.1: Meeting at **HPCA 2023**，Montreal, QC, Canada.
 - 2023.2.21-2023.2.23: Meeting at **FAST 2023**，SANTA CLARA, CA, USA.
