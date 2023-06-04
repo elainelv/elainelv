@@ -38,7 +38,7 @@ Computer Architecture, 3D NAND Flash Memory, Reliability, QoS, File System
 
 ### **🔥News**
 **2023:**
-- _2023.5.26_: 🎉One paper is accepted by **TCAD 2023** (<font color=#FF0000>**CCF-A**</font>)!
+- _2023.5.26_: 🎉One paper is accepted by **TCAD 2023** (**CCF-A**)!
 - _2023.5.20_: 🎉One paper is accepted by **[HotStorage 2023](https://www.hotstorage.org/2023/cfp.html)**
 - _2023.3_: 入选上海市优秀毕业生
 - _2023.2.25-2023.3.1_: Meeting at **[HPCA 2023](https://hpca-conf.org/2023/)**, Montreal, QC, Canada.
@@ -48,18 +48,18 @@ Computer Architecture, 3D NAND Flash Memory, Reliability, QoS, File System
 **2022:**
 - _2022.12.13_: 🎉One poster is accepted by **[Student Research Forum at ASP-DAC 2023](https://www.aspdac.com/aspdac2023/student_forum/)**.
 - _2022.12.06_: **Huaxin Special Social Scholarship**, School of Computer Science and Technology, East China Normal University.
-- _2022.10.27_: 🎉One paper is accepted by **[IEEE UIC 2023](http://www.ieee-smart-world.org/2022/uic/ps.php)** (<font color=#FF0000>**CCF-C**</font>)!
-- _2022.10.18_: 🎉One paper is accepted by **[HPCA 2023](https://hpca-conf.org/2023/)** (<font color=#FF0000>**CCF-A**</font>)!
-- _2022.09.14_: 🎉One paper is accepted by **[ASP-DAC 2023](https://www.aspdac.com/aspdac2023/)** (<font color=#FF0000>**CCF-C**</font>)! Nominated for best paper award!
-- _2022.09.04_: 🎉One paper is accepted by **[CCF THPC 2022](https://www.springer.com/journal/42514)**.
+- _2022.10.27_: 🎉One paper is accepted by **[IEEE UIC 2023](http://www.ieee-smart-world.org/2022/uic/ps.php)** (**CCF-C**)!
+- _2022.10.18_: 🎉One paper is accepted by **[HPCA 2023](https://hpca-conf.org/2023/)** (**CCF-A**)!
+- _2022.09.14_: 🎉One paper is accepted by **[ASP-DAC 2023](https://www.aspdac.com/aspdac2023/)** (**CCF-C**)! Nominated for best paper award!
+- _2022.09.04_: 🎉One paper is accepted by **[CCF THPC 2022](https://www.springer.com/journal/42514)** (**CCF-C**).
 - _2022.05.31_: 🎉One paper is accepted by **[NVMSA 2022](https://nvmsa2022.github.io/)**.
-- _2022.04.08_: 🎉One paper is accepted by **[CCF THPC 2022](https://www.springer.com/journal/42514)**.
+- _2022.04.08_: 🎉One paper is accepted by **[CCF THPC 2022](https://www.springer.com/journal/42514)** (**CCF-C**).
 - _2022.02.10_: 🎉One poster is accepted by **FAST 2022**.
 
 **2021:**
 - _2021.12.30_: **Outstanding Student Social Scholarship**, School of Computer Science and Technology, East China Normal University.
 - _2021.12.28_: Meeting at CCF YOCSEF 青年计算机科技论坛，报告会主题：新一代闪存存储可靠性问题路在何方？Panel嘉宾
-- _2021.11_: 🎉One paper is accepted by **[DATE 2022](https://date22.date-conference.com/)** (<font color=#FF0000>CCF-B</font>)!
+- _2021.11_: 🎉One paper is accepted by **[DATE 2022](https://date22.date-conference.com/)** (**CCF-B**)!
 - _2021.10.26_: **Outstanding Student**, East China Normal University.
 - _2021.10.14_: Poster session Chair at **MSC 2021**, virtual conference.
 - _2021.09.29_: **National Scholarship**, East China Normal University.
@@ -67,7 +67,7 @@ Computer Architecture, 3D NAND Flash Memory, Reliability, QoS, File System
 - _2021.05.23~05.24_: Meeting at **ChinaSys 2021**, Hangzhou, China.
 - _2021.05.12~05.15_: Meeting at **CCF YEF 2021**，Shenyang, China.
 - _2021.05.10_: 获得校级优秀博士生学术创新能力提升计划.
-- _2021.02.06_: 🎉One paper is accepted by **[TCAD 2021](https://ieeexplore.ieee.org/document/9365694/)** (<font color=#FF0000>**CCF-A**</font>)!
+- _2021.02.06_: 🎉One paper is accepted by **[TCAD 2021](https://ieeexplore.ieee.org/document/9365694/)** (**CCF-A**)!
 
 **2020:**
 - _2020.12.24_: 获得华为云首届技术创新大赛三等奖.
@@ -78,21 +78,21 @@ Computer Architecture, 3D NAND Flash Memory, Reliability, QoS, File System
 - _2020.06.29~_: Meeting at **[DAC 2020](https://www.dac.com/)**, Young Student Fellew.
 - _2020.06.14_: Admit as a Ph.D student.
 - _2020.06.01_: DAC 2020, Young Student Fellow accept!
-- _2020.02.28_: 🎉One paper is accepted by **[DAC 2020](https://www.dac.com/)** <span style="color:red">(**CCF-A**)</span>! 
-- _2020.02.19_: 🎉One paper is accepted by **[GLSVLSI 2020](https://www.glsvlsi.org/archive/glsvlsi20/index.html)** (<font color=#FF0000>**CCF-C**</font>)! 
+- _2020.02.28_: 🎉One paper is accepted by **[DAC 2020](https://www.dac.com/)** (**CCF-A**)! 
+- _2020.02.19_: 🎉One paper is accepted by **[GLSVLSI 2020](https://www.glsvlsi.org/archive/glsvlsi20/index.html)** (**CCF-C**)! 
 
 **2019:**
 - _2019.08.15~08.17_: Meeting & Report at **[NAS 2019](http://www.nas-conference.org/NAS-2019/)**, Enshi, Hubei, China.
-- _2019.06.17_: 🎉One paper is accepted by **[NAS 2019](http://www.nas-conference.org/NAS-2019/)** (<font color=#FF0000>**EI**</font>)!
+- _2019.06.17_: 🎉One paper is accepted by **[NAS 2019](http://www.nas-conference.org/NAS-2019/)** (**EI**)!
 
 ### 📝**Publications**
 ---
 
 #### Conference
 - [``HotStorage 2023``](https://www.hotstorage.org/2023/cfp.html) **When F2FS Meets Compression-Based SSD!**, Yunpeng Song, Yiyang Huang, **Yina Lv**, Yi Zhang, Liang Shi, East China Normal University, ACM Workshop on Hot Topics in Storage and File Systems(HotStorage), July 9, in Boston, MA, USA.
-- [``HPCA 2023``](https://hpca-conf.org/2023/) **[Multiple-Gray-Code for 3D NAND Flash based High-Density SSDs](https://ieeexplore.ieee.org/document/10070946)**, **Yina Lv**, Liang Shi, Qiao Li, Congming Gao, Yunpeng Song, Longfei Luo, Youtao Zhang, in Proceedings of the 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA), Feb 25 – March 01 2023, Montreal, QC, Canada.(<font color=#FF0000>**CCF-A**</font>)
-- [``UIC 2022``](http://www.ieee-smart-world.org/2022/uic/ps.php) **[Access Characteristic Guided Remote Swapping for User Experience Optimization on Mobile Devices]()**, Wentong Li, **Yina Lv**, Changlong Li and Liang Shi, in Proceedings of the 19th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC), December 15-18, 2022, Haikou, China.(<font color=#FF0000>**CCF-C**</font>)
-- [``ASP-DAC 2023``](https://www.aspdac.com/aspdac2023/) **[DECC: Differential ECC for Read Performance Optimization on High-Density NAND Flash Memory](https://dl.acm.org/doi/abs/10.1145/3566097.3567853?casa_token=J-Rek3oVb6QAAAAA:ihzaHqCppSTjGFHU8rZOWwx5-c5rT8-CXaOAKrzO1AuqHWU79atz1KBQ8cCadw2rgxeJacTiFenXuw)**, Yunpeng Song, **Yina Lv**, Liang Shi, in Proceedings of the 28th Asia and South Pacific Design Automation Conference (ASP-DAC), Jan. 16-19, 2023, Tokyo Odaiba Miraikan, Japan.(<font color=#FF0000>**CCF-C**</font>)
+- [``HPCA 2023``](https://hpca-conf.org/2023/) **[Multiple-Gray-Code for 3D NAND Flash based High-Density SSDs](https://ieeexplore.ieee.org/document/10070946)**, **Yina Lv**, Liang Shi, Qiao Li, Congming Gao, Yunpeng Song, Longfei Luo, Youtao Zhang, in Proceedings of the 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA), Feb 25 – March 01 2023, Montreal, QC, Canada.(**CCF-A**)
+- [``UIC 2022``](http://www.ieee-smart-world.org/2022/uic/ps.php) **[Access Characteristic Guided Remote Swapping for User Experience Optimization on Mobile Devices]()**, Wentong Li, **Yina Lv**, Changlong Li and Liang Shi, in Proceedings of the 19th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC), December 15-18, 2022, Haikou, China.(**CCF-C**)
+- [``ASP-DAC 2023``](https://www.aspdac.com/aspdac2023/) **[DECC: Differential ECC for Read Performance Optimization on High-Density NAND Flash Memory](https://dl.acm.org/doi/abs/10.1145/3566097.3567853?casa_token=J-Rek3oVb6QAAAAA:ihzaHqCppSTjGFHU8rZOWwx5-c5rT8-CXaOAKrzO1AuqHWU79atz1KBQ8cCadw2rgxeJacTiFenXuw)**, Yunpeng Song, **Yina Lv**, Liang Shi, in Proceedings of the 28th Asia and South Pacific Design Automation Conference (ASP-DAC), Jan. 16-19, 2023, Tokyo Odaiba Miraikan, Japan.(**CCF-C**)
 - [``NVMSA 2022``](https://nvmsa2022.github.io/) **[Latency Aware Page Migration for Read Performance Optimization on Hybrid SSDs](https://ieeexplore.ieee.org/document/9898553)**, Shicheng Li, Longfei Luo, **Yina Lv** and Liang Shi, The 11th IEEE Non-Volatile Memory Systems and Applications Symposium (NVMSA), August 23-25, 2022, Taipei, Taiwan (Hybrid Conference).
 - [``DATE 2022``](https://date22.date-conference.com/) **[DWR: Differential Wearing for Read Performance Optimization on High-Density NAND Flash Memory](https://ieeexplore.ieee.org/document/9774738)**, Yunpeng Song, Qiao Li, **Yina Lv**, Changlong Li, Liang Shi, in Design, Automation & Test in Europe Conference & Exhibition (DATE), 14-23 March 2022, online.(**CCF-B**)
 - [``ICCD 2021``](https://www.iccd-conf.com/Program_2021.html) **[Understanding and Optimizing Hybrid SSD with High-Density and Low-Cost Flash Memory](https://ieeexplore.ieee.org/document/9643753)**, Liang Shi, Longfei Luo, **Yina Lv**, Shicheng Li, Changlong Li and Edwin Hsing-Mean Sha, in IEEE 39th International Conference on Computer Design (ICCD), October 24-27, 2021.(**CCF-B**)
