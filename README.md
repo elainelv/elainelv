@@ -58,7 +58,7 @@ Computer Architecture, 3D NAND Flash Memory, Reliability, QoS, File System
 
 **2021:**
 - _2021.12.30_: **Outstanding Student Social Scholarship**, School of Computer Science and Technology, East China Normal University.
-- _2021.12.28_: 参加YOCSEF中国计算机学会 青年计算机科技论坛，报告会主题：新一代闪存存储可靠性问题路在何方？Panel嘉宾
+- _2021.12.28_: Meeting at CCF YOCSEF 青年计算机科技论坛，报告会主题：新一代闪存存储可靠性问题路在何方？Panel嘉宾
 - _2021.11_: 🎉One paper is accepted by **[DATE 2022](https://date22.date-conference.com/)** (<font color=#FF0000>CCF-B</font>)!
 - _2021.10.26_: **Outstanding Student**, East China Normal University.
 - _2021.10.14_: Poster session Chair at **MSC 2021**, virtual conference.
@@ -78,7 +78,7 @@ Computer Architecture, 3D NAND Flash Memory, Reliability, QoS, File System
 - _2020.06.29~_: Meeting at **[DAC 2020](https://www.dac.com/)**, Young Student Fellew.
 - _2020.06.14_: Admit as a Ph.D student.
 - _2020.06.01_: DAC 2020, Young Student Fellow accept!
-- _2020.02.28_: 🎉One paper is accepted by **[DAC 2020](https://www.dac.com/)** (<font color=#FF0000>**CCF-A**</font>)! 
+- _2020.02.28_: 🎉One paper is accepted by **[DAC 2020](https://www.dac.com/)** <span style="color:red">(**CCF-A**)</span>! 
 - _2020.02.19_: 🎉One paper is accepted by **[GLSVLSI 2020](https://www.glsvlsi.org/archive/glsvlsi20/index.html)** (<font color=#FF0000>**CCF-C**</font>)! 
 
 **2019:**
@@ -90,9 +90,9 @@ Computer Architecture, 3D NAND Flash Memory, Reliability, QoS, File System
 
 #### Conference
 - [``HotStorage 2023``](https://www.hotstorage.org/2023/cfp.html) **When F2FS Meets Compression-Based SSD!**, Yunpeng Song, Yiyang Huang, **Yina Lv**, Yi Zhang, Liang Shi, East China Normal University, ACM Workshop on Hot Topics in Storage and File Systems(HotStorage), July 9, in Boston, MA, USA.
-- [``HPCA 2023``](https://hpca-conf.org/2023/) **Multiple-Gray-Code for 3D NAND Flash based High-Density SSDs**, **Yina Lv**, Liang Shi, Qiao Li, Congming Gao, Yunpeng Song, Longfei Luo, Youtao Zhang, in Proceedings of the 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA), Feb 25 – March 01 2023, Montreal, QC, Canada.(<font color=#FF0000>**CCF-A**</font>)
+- [``HPCA 2023``](https://hpca-conf.org/2023/) **[Multiple-Gray-Code for 3D NAND Flash based High-Density SSDs](https://ieeexplore.ieee.org/document/10070946)**, **Yina Lv**, Liang Shi, Qiao Li, Congming Gao, Yunpeng Song, Longfei Luo, Youtao Zhang, in Proceedings of the 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA), Feb 25 – March 01 2023, Montreal, QC, Canada.(<font color=#FF0000>**CCF-A**</font>)
 - [``UIC 2022``](http://www.ieee-smart-world.org/2022/uic/ps.php) **[Access Characteristic Guided Remote Swapping for User Experience Optimization on Mobile Devices]()**, Wentong Li, **Yina Lv**, Changlong Li and Liang Shi, in Proceedings of the 19th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC), December 15-18, 2022, Haikou, China.(<font color=#FF0000>**CCF-C**</font>)
-- [``ASP-DAC 2023``](https://www.aspdac.com/aspdac2023/) **DECC: Differential ECC for Read Performance Optimization on High-Density NAND Flash Memory**, Yunpeng Song, **Yina Lv**, Liang Shi, in Proceedings of the 28th Asia and South Pacific Design Automation Conference (ASP-DAC), Jan. 16-19, 2023, Tokyo Odaiba Miraikan, Japan.(<font color=#FF0000>**CCF-C**</font>)
+- [``ASP-DAC 2023``](https://www.aspdac.com/aspdac2023/) **[DECC: Differential ECC for Read Performance Optimization on High-Density NAND Flash Memory](https://dl.acm.org/doi/abs/10.1145/3566097.3567853?casa_token=J-Rek3oVb6QAAAAA:ihzaHqCppSTjGFHU8rZOWwx5-c5rT8-CXaOAKrzO1AuqHWU79atz1KBQ8cCadw2rgxeJacTiFenXuw)**, Yunpeng Song, **Yina Lv**, Liang Shi, in Proceedings of the 28th Asia and South Pacific Design Automation Conference (ASP-DAC), Jan. 16-19, 2023, Tokyo Odaiba Miraikan, Japan.(<font color=#FF0000>**CCF-C**</font>)
 - [``NVMSA 2022``](https://nvmsa2022.github.io/) **[Latency Aware Page Migration for Read Performance Optimization on Hybrid SSDs](https://ieeexplore.ieee.org/document/9898553)**, Shicheng Li, Longfei Luo, **Yina Lv** and Liang Shi, The 11th IEEE Non-Volatile Memory Systems and Applications Symposium (NVMSA), August 23-25, 2022, Taipei, Taiwan (Hybrid Conference).
 - [``DATE 2022``](https://date22.date-conference.com/) **[DWR: Differential Wearing for Read Performance Optimization on High-Density NAND Flash Memory](https://ieeexplore.ieee.org/document/9774738)**, Yunpeng Song, Qiao Li, **Yina Lv**, Changlong Li, Liang Shi, in Design, Automation & Test in Europe Conference & Exhibition (DATE), 14-23 March 2022, online.(**CCF-B**)
 - [``ICCD 2021``](https://www.iccd-conf.com/Program_2021.html) **[Understanding and Optimizing Hybrid SSD with High-Density and Low-Cost Flash Memory](https://ieeexplore.ieee.org/document/9643753)**, Liang Shi, Longfei Luo, **Yina Lv**, Shicheng Li, Changlong Li and Edwin Hsing-Mean Sha, in IEEE 39th International Conference on Computer Design (ICCD), October 24-27, 2021.(**CCF-B**)
