@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-My name is **Yina Lv(吕熠娜)**<!--, I work at City University of HongKong as a postdoc now in HongKong, China.-->
+My name is **Yina Lv(吕熠娜)**, I work at City University of Hong Kong (CityU) as a **Postdoctoral Researcher** now in Hong Kong, China.
 
 I received the B.S. degree in Computer Science from Ning'bo University and Ph.D. degree in Computer Software and Theory from East China Normal University in the group of [Liang Shi](https://faculty.ecnu.edu.cn/_s16/sl2_13905/main.psp).
 
@@ -37,14 +37,18 @@ I am open-minded and a girl with positive attitude. In my spare time, I like lis
 Computer Architecture, 3D NAND Flash Memory, Reliability, QoS, File System
 
 ### **🔥News**
+**2024:**
+- _2024.1.21~1.26_: Meeting at **[ASP-DAC 2024](https://www.aspdac.com/aspdac2024/welcome/index.html)**, Incheon Songdo Convensia, South Korea.
+
 **2023:**
+- _2023.11_: 🎉One paper is accepted by **[ASPLOS 2024](https://www.asplos-conference.org/asplos2024)** (<span style="color:red">**CCF-A**</span>)!
 - _2023.10_: 🎉One paper is accepted by **TACO 2023** (**CCF-A**)!
 - _2023.07_: 🎉One paper is accepted by **TCAD 2023** (**CCF-A**)!
 - _2023.5.26_: 🎉One paper is accepted by **TCAD 2023** (**CCF-A**)!
 - _2023.5.20_: 🎉One paper is accepted by **[HotStorage 2023](https://www.hotstorage.org/2023/cfp.html)**
 - _2023.3_: Outstanding Graduate, Shanghai. (上海市优秀毕业生)
-- _2023.2.25-2023.3.1_: Meeting at **[HPCA 2023](https://hpca-conf.org/2023/)**, Montreal, QC, Canada.
-- _2023.2.21-2023.2.23_: Meeting at **[FAST 2023](https://www.usenix.org/conference/fast23/technical-sessions)**, SANTA CLARA, CA, USA.
+- _2023.2.25~3.1_: Meeting at **[HPCA 2023](https://hpca-conf.org/2023/)**, Montreal, QC, Canada.
+- _2023.2.21~2.23_: Meeting at **[FAST 2023](https://www.usenix.org/conference/fast23/technical-sessions)**, SANTA CLARA, CA, USA.
 - _2023.1.11_: Top Ten Female College Students of East China Normal University(华东师范大学第三十二届**十佳女大学生**).
 
 **2022:**
