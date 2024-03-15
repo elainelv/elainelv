@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 My name is **Yina Lv(吕熠娜)**, I work at City University of Hong Kong (CityU) as a **Postdoctoral Researcher** now in Hong Kong, China.
 
-I received the B.S. degree in Computer Science from Ning'bo University and Ph.D. degree in Computer Software and Theory from East China Normal University in the group of [Liang Shi](https://faculty.ecnu.edu.cn/_s16/sl2_13905/main.psp).
+I received the B.S. degree in Computer Science from Ning'bo University and Ph.D. degree in Computer Software and Theory from East China Normal University (ECNU) in the group of [Liang Shi](https://faculty.ecnu.edu.cn/_s16/sl2_13905/main.psp).
 
 I major in Computer Science and Technology. Specifically, I specialize in the QoS of high-density flash storage systems.
 My research interests include NAND flash memory and computer architecture.
