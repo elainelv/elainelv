@@ -22,10 +22,15 @@ My name is **Yina Lv(吕熠娜)**, I work at City University of Hong Kong (CityU
 I received the B.S. degree in Computer Science from Ning'bo University and Ph.D. degree in Computer Software and Theory from East China Normal University (ECNU) in the group of [Liang Shi](https://faculty.ecnu.edu.cn/_s16/sl2_13905/main.psp).
 
 I major in Computer Science and Technology. Specifically, I specialize in the QoS of high-density flash storage systems.
-My research interests include NAND flash memory and computer architecture.
-I have published 18 papers <a href='https://scholar.google.com/citations?user=9F9NYH4AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Felainelv%2Felainelv.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the international conferences/journals such as HPCA, DAC, TCAD, ICCD, GLSVLSI, NAS, etc.
+My research interests include storage systems, NAND flash memory and computer architecture.
+I have published 23 papers <a href='https://scholar.google.com/citations?user=9F9NYH4AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Felainelv%2Felainelv.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the international conferences/journals such as HPCA, DAC, TCAD, ICCD, GLSVLSI, NAS, etc.
 
-I am open-minded and a girl with positive attitude. In my spare time, I like listening to music, watching reality shows or comedies. Playing sports and games are also the choice to relax myself!
+I am open-minded and a girl with a positive attitude. In my spare time, I like listening to music, watching reality shows or comedies. Playing sports and games are also the choice to relax myself!
+
+- Postdoc at **City University of Hong Kong (CityU)**, Hong Kong, China (*Aug, 2023 - Aug, 2024*)
+- RA at **City University of Hong Kong (CityU)**, Hong Kong, China (*Sep, 2022 - Mar, 2023*)
+- M.S & Ph.D (Computer Software and Theory) at **East China Normal University (ECNU)**, Shanghai, China (*Sep, 2018 - Jun, 2023*)
+- B.S (Computer Science and Technology) at **NingBo University**, Zhejiang, China (*Sep, 2014 - Jun, 2018*)
 
 ### 📫Homepages:
 - Personal Homepage: https://elainelv.github.io (updated recently🔥)
@@ -38,6 +43,7 @@ Computer Architecture, 3D NAND Flash Memory, Reliability, QoS, File System
 
 ### **🔥News**
 **2024:**
+- _2024.4.27~5.1_: Meeting at **[ASPLOS 2024](https://www.asplos-conference.org/asplos2024/)**, San Diego, USA.
 - _2024.1.21~1.26_: Meeting at **[ASP-DAC 2024](https://www.aspdac.com/aspdac2024/welcome/index.html)**, Incheon Songdo Convensia, South Korea.
 
 **2023:**
@@ -106,9 +112,3 @@ My full paper list is shown at [my personal homepage](https://elainelv.github.io
 - [``GLSVLSI 2020``](https://www.glsvlsi.org/archive/glsvlsi20/index.html) (**CCF-C**) **[Latency Variation Aware Read Performance Optimization on 3D High Density NAND Flash Memory](https://dl.acm.org/doi/10.1145/3386263.3406953)**, **Yina Lv**, Liang Shi, Chun Jason Xue, Qingfeng Zhuge and Edwin H.-M. Sha, in Proceedings of the ACM Great Lakes Symposium on VLSI (GLSVLSI). September 7-9, 2020.
 - [``NAS 2019``](http://www.nas-conference.org/NAS-2019/) (**EI**) **[Optimizing Tail Latency of LDPC based Flash Memory Storage Systems Via Smart Refresh](https://ieeexplore.ieee.org/document/8834728)**, **Yina Lv**, Liang Shi, Qiao Li, Congming Gao, Chun Jason Xue and Edwin H.-M. Sha, in IEEE International Conference on Networking, Architecture and Storage (NAS), EnShi, China. August 15−17, 2019.
 
-
-### 🌱**Education**
----
-- RA at **City University of Hong Kong (CityU)**, Hong Kong, China(*Sep, 2022 - Mar, 2023*)
-- M.S & Ph.D (Computer Software and Theory) at **East China Normal University (ECNU)**, Shanghai, China(*Sep, 2018 - Jun, 2023*)
-- B.S (Computer Science and Technology) at **NingBo University**, Zhejiang, China(*Sep, 2014 - Jun, 2018*)
